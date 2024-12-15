@@ -1,0 +1,1 @@
+Run "pip install ." after setting up on local to installation local packages.
